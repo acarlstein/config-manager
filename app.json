@@ -1,0 +1,16 @@
+{
+  "name": "config-manager",
+  "description": "Configuration Manager. A software which allows to keep track of your configurations changes.",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
